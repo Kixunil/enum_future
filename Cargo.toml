@@ -7,7 +7,7 @@ homepage = "https://github.com/Kixunil/enum_future"
 repository = "https://github.com/Kixunil/enum_future"
 readme = "README.md"
 keywords = ["enum", "future", "macro", "implement", "derive"]
-categories = ["asynchronous", "data-structurs", "no-std", "rust-patterns"]
+categories = ["asynchronous", "data-structures", "no-std", "rust-patterns"]
 license = "MITNFA"
 
 [dependencies]
