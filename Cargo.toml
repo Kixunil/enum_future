@@ -1,0 +1,14 @@
+[package]
+name = "enum_future"
+version = "0.1.0"
+authors = ["Martin Habovstiak <martin.habovstiak@gmail.com>"]
+description = "A simple macro for creating `Future`-implementing enums containing futures."
+homepage = "https://github.com/Kixunil/enum_future"
+repository = "https://github.com/Kixunil/enum_future"
+readme = "README.md"
+keywords = ["enum", "future", "macro", "implement", "derive"]
+categories = ["asynchronous", "data-structurs", "no-std", "rust-patterns"]
+license = "MITNFA"
+
+[dependencies]
+futures = "0.1"
